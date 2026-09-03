@@ -1,0 +1,6 @@
+{
+  "name": "IT Helpdesk Ticketing System",
+  "description": "Pełnostosowy system zgłoszeń IT Helpdesk z uwierzytelnianiem JWT, obsługą ról użytkowników, zarządzaniem cyklem życia ticketów, SLA i specyfikacją FastAPI + MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
