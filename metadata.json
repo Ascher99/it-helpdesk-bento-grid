@@ -1,6 +1,6 @@
 {
-  "name": "IT Helpdesk Ticketing System",
-  "description": "Pełnostosowy system zgłoszeń IT Helpdesk z uwierzytelnianiem JWT, obsługą ról użytkowników, zarządzaniem cyklem życia ticketów, SLA i specyfikacją FastAPI + MySQL.",
+  "name": "IT Helpdesk & Ticketing System (Bento Grid)",
+  "description": "Full-stack IT Helpdesk ticketing system featuring a high-contrast Bento Grid dashboard, JWT authentication, SLA tracking, and FastAPI + MySQL 8.0 architecture.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

@@ -1,8 +1,21 @@
 {
-  "name": "react-example",
+  "name": "it-helpdesk-bento-grid",
+  "version": "1.0.0",
+  "description": "Modern IT Helpdesk & Ticketing System with Bento Grid layout, JWT authentication, SLA tracking, and FastAPI + MySQL architecture",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "license": "MIT",
+  "author": "Ascher99",
+  "keywords": [
+    "helpdesk",
+    "ticketing-system",
+    "bento-grid",
+    "react",
+    "tailwind-css",
+    "fastapi",
+    "mysql",
+    "jwt-auth"
+  ],
   "scripts": {
     "dev": "tsx server.ts",
     "build": "vite build && esbuild server.ts --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
